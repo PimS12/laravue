@@ -1,0 +1,44 @@
+{
+    "locales": {
+        "ru": "Русский",
+        "en": "English"
+    },
+
+    "routes": {
+        "home": "Home",
+        "about": "About",
+        "login": "Login"
+    },
+
+    "alerts": {
+        "login": {
+            "success": "You have successfully logged in !",
+            "error": "An error occurred while logging in !"
+        }
+    },
+
+    "text_pages": {
+        "login": {
+            "title": "Login",
+            "remember_me": "Remember me"
+        },
+        "main_layout": {
+            "menu": "Menu"
+        }
+    },
+
+    "buttons": {
+        "login": "Login",
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+
+    "fields": {
+        "login": "Login",
+        "email": "Email",
+        "password": "Password",
+        "search": "Search"
+    },
+
+    "message": "Hello, World!"
+}

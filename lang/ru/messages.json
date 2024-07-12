@@ -1,0 +1,4 @@
+{
+    "(and :count more error)": "и еще один ошибочный параметр",
+    "choice": "(и еще :count :pluralized)"
+}

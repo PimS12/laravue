@@ -1,0 +1,45 @@
+{
+    "locales": {
+        "ru": "Русский",
+        "en": "English"
+    },
+
+    "routes": {
+        "home": "Главная",
+        "about": "О нас",
+        "login": "Вход"
+    },
+
+    "alerts": {
+        "login": {
+            "success": "Вы успешно вошли в систему !",
+            "error": "Произошла ошибка при входе в систему !"
+        }
+    },
+
+    "text_pages": {
+        "login": {
+            "title": "Вход",
+            "remember_me": "Запомнить меня"
+        },
+        "main_layout": {
+            "menu": "Меню"
+        }
+    },
+
+    "buttons": {
+        "login": "Войти",
+        "profile": "Профиль",
+        "logout": "Выход"
+    },
+
+    "fields": {
+        "login": "Логин",
+        "email": "Электронная почта",
+        "password": "Пароль",
+        "search": "Поиск"
+    },
+
+    "message": "Привет, Мир !"
+
+}
